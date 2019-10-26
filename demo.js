@@ -34,6 +34,7 @@ function likeCallback(e) {
     });
 }
 
+// trying to add to github
 // STEP 3: In order for the call to the server and the update of the screen to
 // work, the elements we identify in STEP 1 need to be told to run that update
 // code when an "event" is fired. That's Pillar 2, event handling. Uncomment
